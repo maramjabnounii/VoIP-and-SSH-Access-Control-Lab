@@ -1,12 +1,2 @@
 # VoIP-and-Secure-SSH-Configuration-Lab
-This lab project simulates a network environment using Cisco Packet Tracer with a focus on VLAN segmentation, inter-VLAN routing via Router-on-a-Stick, and VoIP setup. The topology includes VLAN configurations, DHCP for IP assignment, and VoIP with IP phones connected to different VLANs. 
-Key protocols and configurations include:
-
-VTP (VLAN Trunking Protocol) for VLAN management
-VLANs for network segmentation
-Trunk and Access Ports for VLAN traffic management
-Dynamic Trunking Protocol (DTP) for trunk negotiation
-Router-on-a-Stick configuration for inter-VLAN routing
-DHCPv4 for automatic IP allocation
-VoIP configuration with Cisco IP Phones
-SSH setup for secure remote access
+This lab project simulates a network environment in Cisco Packet Tracer, focusing on VLAN segmentation, inter-VLAN routing via Router-on-a-Stick, and VoIP with IP phones across VLANs. Key configurations include VTP for VLAN management, DHCPv4 for IP assignment, DTP for trunk negotiation, and SSH for secure remote access.
